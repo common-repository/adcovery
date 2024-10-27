@@ -1,0 +1,42 @@
+.clear {
+    clear: both;
+}
+#adcovery_notification_message {
+    padding: 15px;
+    font-family: Georgia, serif;
+    font-size: 14px;
+}
+.adcovery_credentials {
+    width: 400px;
+    float: left;
+}
+.adcovery_credentials input[type=text] {
+    width: 80%;
+}
+.adcovery_status_box {
+    width: 400px;
+    border-left: 4px solid #ffba00;
+    padding: 1px 15px;
+    line-height: 19px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, .1);
+    font-size: 14px;
+}
+.adcovery_status_box p {
+    color: #888;
+}
+.adcovery_status_box span {
+    color: #000;
+}
+
+.adcovery_contact{
+    font-size: 18px;
+}
+
+label, input{
+    display: block;
+    margin: 15px 0 15px 0;
+}
+
+label{
+}
